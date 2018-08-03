@@ -1,15 +1,10 @@
 
-.1 {
-   
-}
 
 img {
     width: px
 }
 
-.2 {
 
-}
 
 
 
@@ -52,9 +47,7 @@ h4 {
     padding-left: 10px;
 }
 
-ion-icon {
-    
-}
+
 
 .icn {
     
@@ -77,9 +70,7 @@ ion-icon {
    
 }
 
-input {
-    
-}
+
 .btn1 {
     background-color: #3897f0;
     border-color: #3897f0;
@@ -130,4 +121,34 @@ input {
 .pmid {
     margin-left: 1100px;
     
+}
+
+
+
+.unlist {
+    text-transform: uppercase;
+    list-style: none;
+    font-size: 13px;
+    color: #003569;
+    font-weight: 500;
+    display: inline-block;
+    vertical-align: bottom;
+    list-style-type: none;
+    list-style-position: inside;
+    text-align:
+
+    }
+
+li{
+    text-align: inherit;
+    float: left;
+    margin-bottom: 20px;
+} 
+
+
+
+
+
+.p {
+    margin-left: 150px;
 }
