@@ -1,6 +1,6 @@
 
 .1 {
-    
+   
 }
 
 img {
@@ -35,6 +35,8 @@ h4 {
 .frm {
     margin-left: 1000px;
     border:1px solid gainsboro;
+    width: 300px;
+    text-align: center;
     
     
 }
@@ -99,4 +101,33 @@ input {
     margin-top: 50px;
     font-weight: 100;
     font-size: 14px;
+}
+
+.lg {
+    margin-top: 180px;
+}
+
+.dl {
+    margin-left: 870px;
+    line-height: 13;
+    
+}
+.frm1 {
+    margin-left: 1000px;
+    border:1px solid gainsboro;
+    width: 300px;
+    text-align: center;
+    line-height: 3;
+    margin-top: 9px
+    
+}
+
+.anc {
+    color:#259ce6;
+    text-decoration-line: none;
+}
+
+.pmid {
+    margin-left: 1100px;
+    
 }
