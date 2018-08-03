@@ -22,16 +22,20 @@ img {
 h4 {
    font-family:  Segoe UI;
     color: gainsboro;
+    
 }
 
 .hdr {
     color: grey;
     font-weight: 500;
-    margin-left: 950px;
+   
     margin-top: 50px;
 }
 
 .frm {
+    margin-left: 1000px;
+    border:1px solid gainsboro;
+    
     
 }
 
@@ -43,7 +47,7 @@ h4 {
     line-height: 20px;
     border-radius: 5px;
     padding-right: 80px;
-    padding-left: 80px;
+    padding-left: 10px;
 }
 
 ion-icon {
@@ -73,4 +77,26 @@ ion-icon {
 
 input {
     
+}
+.btn1 {
+    background-color: #3897f0;
+    border-color: #3897f0;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 5px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.im {
+    margin-right: 5px
+}
+.hdrr {
+    color: grey;
+    font-weight: 500;
+   
+    margin-top: 50px;
+    font-weight: 100;
+    font-size: 14px;
 }
