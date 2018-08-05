@@ -29,6 +29,7 @@ h4 {
     border:1px solid gainsboro;
     width: 300px;
     text-align: center;
+    
    
     
     
@@ -154,24 +155,28 @@ li{
     color: gray;
     cursor: text;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 .ml {
-    
-    position: fixed;
-    margin-left: 560px;
-    margin-top: 90px
-    
-}
+    margin-left: 500px;
+    margin-top: 50px;
+    position: absolute;
+    }
+
+.nl {
+      margin-left: 650px;
+    margin-top: 150px;
+    position: absolute;
+    visibility: visible;
+    cursor: pointer;
+
+     } 
 
 
+
+
+
+
+
+
+
+
+     
